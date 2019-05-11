@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Telefon Rehberi2</string>
+    <string name="ad">Ad</string>
+    <string name="soyad">Soyad</string>
+    <string name="numara">Numara</string>
+    <string name="kisiekle">Kişi Ekle</string>
+    <string name="isimgir">İsim</string>
+    <string name="kisilerigoster">Kişi Göster</string>
+    <string name="kisisil">Kişi Sil</string>
+    <string name="kisiguncelle">Güncelle</string>
+
+
+
+</resources>
